@@ -19,8 +19,11 @@ Completed a job simulation, assuming the role of project manager.
 Mapped suitable project management approaches such as:
 
 Plan Driven
+
 Agile
+
 Second Agile
+
 Hybrid
 
 Presented a project status update to senior leadership and the project team, demonstrating my ability to communicate effectively and manage project timelines.
