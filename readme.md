@@ -1,5 +1,3 @@
-# forage-virtual-experience 
-
 Forage Virtual Experience: Business Analysis & Project Management Tasks
 
 This repository showcases the tasks completed as part of my Forage Virtual Experience. The experience provided me with insights into Project Management, Agile Methodology, and Product Management through real-world simulations, allowing me to apply business analysis and project management concepts to practical tasks.
