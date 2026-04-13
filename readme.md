@@ -1,4 +1,6 @@
-Forage Virtual Experience: Business Analysis & Project Management Tasks
+Forage Virtual Experience: 
+
+Business Analysis & Project Management Tasks
 
 This repository showcases the tasks completed as part of my Forage Virtual Experience. The experience provided me with insights into Project Management, Agile Methodology, and Product Management through real-world simulations, allowing me to apply business analysis and project management concepts to practical tasks.
 
@@ -17,11 +19,8 @@ Completed a job simulation, assuming the role of project manager.
 Mapped suitable project management approaches such as:
 
 Plan Driven
-
 Agile
-
 Second Agile
-
 Hybrid
 
 Presented a project status update to senior leadership and the project team, demonstrating my ability to communicate effectively and manage project timelines.
